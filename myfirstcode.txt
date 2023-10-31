@@ -1,1 +1,6 @@
 hello world!!
+take the input from the user
+read and evaluate it..
+
+
+submit db
